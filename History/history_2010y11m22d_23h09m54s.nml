@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="14"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="3"><ENTRY MODIFIED_DATE="2010/11/22" MODIFIED_TIME="74724" AUDIO_ID="Ac9aqqqqqqqqqqqqqqqqqqqqqcqrqquqqrqqqqq7qrqqq6qt+6z7zeu7/Lvtu9+7z7u/y6/rvdvM27zrvPy77czeu9/Lr2XJdml037ZW/M/8y+3P/+3vzf/N38zv7d793/3d/d7+y+/d/+7/3f/d3/3//d797/7c/t7+3f/u/97v3e/d3u3P/+393/7//+///e/t/97f/v////3f/u/+7/7d7c/9ze/e///v/f/t7/3f7e3t3/7u/97/7//d7/7//f///v3v/+//7////7z+vN/L79zM28/szPy97tztz/7d793/3d7c/9vM28/8u+yu26vfrP6prKn+uZvZ35EAAA==" TITLE="Lady Luck (City Lights) - Original Mix" ARTIST="Timo Garcia, Amber Jolene"><LOCATION DIR="/:Users/:cantgetnosleep/:Music/:iTunes/:iTunes Media/:Music/:Timo Garcia, Amber Jolene/:Lady Luck (City Lights)/:" FILE="Lady Luck (City Lights) - Original Mix.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Lady Luck (City Lights)"></ALBUM>
+<INFO BITRATE="320000" GENRE="House" LABEL="Yoshitoshi Recordings" COMMENT="House - " COVERARTID="067/DGIUEGC2KJ5ICBPIFQTKBQK5VYSB" PLAYCOUNT="8" PLAYTIME="462" IMPORT_DATE="2010/11/16" LAST_PLAYED="2010/11/22" RELEASE_DATE="2010/1/1" FILESIZE="18184"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="125" BPM="125" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.92576957" PERCEIVED_DB="-0.320533931"></LOUDNESS>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="103.23524467981285" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2010/11/17" MODIFIED_TIME="18805" AUDIO_ID="AZk1REREREVFVVVa///////////////////////8nP//////////////////////////////////////////////////////7dy7qqqauqmpmZmZmq7+u8u4u7qLrJjLuZy8m7y5u8qtvYj//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////v/v/v/u/u/u/u/u+ERVVVRERVVVZlMhEQAAAA==" TITLE="I Dropped My E On The Dancefloor - Original Mix" ARTIST="Angel Stoxx"><LOCATION DIR="/:Users/:cantgetnosleep/:Music/:iTunes/:iTunes Media/:Music/:Angel Stoxx/:I Dropped My E On The Dancefloor/:" FILE="I Dropped My E On The Dancefloor - Original Mix.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="I Dropped My E On The Dancefloor"></ALBUM>
+<INFO BITRATE="320000" GENRE="Tech House" LABEL="Hotfingers" COMMENT="Tech House - " COVERARTID="062/43B3JABLQS50LDATTR5ECYVRHDJA" PLAYCOUNT="7" PLAYTIME="409" IMPORT_DATE="2010/11/16" LAST_PLAYED="2010/11/22" RELEASE_DATE="2010/1/1" FLAGS="2" FILESIZE="16012"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="125" BPM="125" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.21027482" PERCEIVED_DB="0.679466069"></LOUDNESS>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="154.54193872328264" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2010/11/17" MODIFIED_TIME="19496" AUDIO_ID="AV5mVERURFREVERVSFVERVVVVVVVVVWWZmZ2d3d4iavP/6uENERWRGZkNDP////////////////////////7ZkT////////////////////////1NET////////////////////////////3VEZpmZdlRVRFaGVVVVVUIhEREiIjM0VFVL////////////////////////tmYv///////////////////////////+mmM0RGVFZmQ0M+/////////////f//////////91Wf/////////////7vN7Kze6r3fq93pUyIiIiMiESIiEyIREREREREQAAAAAAAAAAAAAA==" TITLE="Subsonic - Elite Force Remix" ARTIST="Excision"><LOCATION DIR="/:Users/:cantgetnosleep/:Music/:iTunes/:iTunes Media/:Music/:Excision/:Subsonic Remix _ Emergency Remix/:" FILE="Subsonic - Elite Force Remix.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Subsonic Remix / Emergency Remix"></ALBUM>
+<INFO BITRATE="320000" GENRE="Dubstep" LABEL="Rottun Recordings" COMMENT="Dubstep - " COVERARTID="097/BDPE5JB5VRE1GBR4KUOHCYOVNJMD" PLAYCOUNT="2" PLAYTIME="350" IMPORT_DATE="2010/11/16" LAST_PLAYED="2010/11/22" RELEASE_DATE="2010/1/1" FILESIZE="13728"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="132.998993" BPM="132.998993" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.90512979" PERCEIVED_DB="-1.64053392"></LOUDNESS>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="60.797012090582697" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="3" TYPE="PROTOCOL"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:cantgetnosleep/:Music/:iTunes/:iTunes Media/:Music/:Timo Garcia, Amber Jolene/:Lady Luck (City Lights)/:Lady Luck (City Lights) - Original Mix.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="271.931274" EXTENDEDTYPE="HistoryData" STARTDATE="131730198" STARTTIME="53399"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:cantgetnosleep/:Music/:iTunes/:iTunes Media/:Music/:Excision/:Subsonic Remix _ Emergency Remix/:Subsonic - Elite Force Remix.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="24.9517136" EXTENDEDTYPE="HistoryData" STARTDATE="131730198" STARTTIME="53533"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:cantgetnosleep/:Music/:iTunes/:iTunes Media/:Music/:Angel Stoxx/:I Dropped My E On The Dancefloor/:I Dropped My E On The Dancefloor - Original Mix.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="179.521225" EXTENDEDTYPE="HistoryData" STARTDATE="131730198" STARTTIME="55537"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NIXML><TraktorSettings><Entry Name="Accessor.Hotkey" Type="7" Value=""></Entry>
+<Entry Name="Accessor.Hotkey.Version" Type="1" Value="0"></Entry>
+<Entry Name="Accessor.Midi" Type="7" Value=""></Entry>
+<Entry Name="Accessor.Midi.Version" Type="1" Value="0"></Entry>
+<Entry Name="Audio.DeviceName" Type="3" Value=""></Entry>
+<Entry Name="Audio.DeviceName.Mac" Type="3" Value=""></Entry>
+<Entry Name="Audio.DeviceName.Win" Type="3" Value=""></Entry>
+<Entry Name="Audio.DriverName" Type="3" Value=""></Entry>
+<Entry Name="Audio.FS.Latency" Type="1" Value="512"></Entry>
+<Entry Name="Audio.FS.SampleRate" Type="1" Value="44100"></Entry>
+<Entry Name="Audio.FX.Selection" Type="5" Value=""></Entry>
+<Entry Name="Audio.Latency" Type="1" Value="1792"></Entry>
+<Entry Name="Audio.Mode" Type="1" Value="0"></Entry>
+<Entry Name="Audio.SampleRate" Type="1" Value="44100"></Entry>
+<Entry Name="BackgroundThread.AutoAnalyze" Type="0" Value="0"></Entry>
+<Entry Name="BackgroundThread.AutoAnalyzeOnLoad" Type="0" Value="1"></Entry>
+<Entry Name="BackgroundThread.DetermineTime" Type="0" Value="1"></Entry>
+<Entry Name="Broadcast.IcecastMetadata.Description" Type="3" Value="For demo versions and more information about TRAKTOR check out: www.ni-traktor.com"></Entry>
+<Entry Name="Broadcast.IcecastMetadata.Genre" Type="3" Value="Mixed Styles"></Entry>
+<Entry Name="Broadcast.IcecastMetadata.Name" Type="3" Value="Traktor Broadcast"></Entry>
+<Entry Name="Broadcast.IcecastMetadata.URL" Type="3" Value=""></Entry>
+<Entry Name="Broadcast.IcecastServer.Address" Type="3" Value=""></Entry>
+<Entry Name="Broadcast.IcecastServer.Bitrate" Type="1" Value="128000"></Entry>
+<Entry Name="Broadcast.IcecastServer.MountPath" Type="3" Value=""></Entry>
+<Entry Name="Broadcast.IcecastServer.Password" Type="3" Value=""></Entry>
+<Entry Name="Broadcast.IcecastServer.Port" Type="1" Value="0"></Entry>
+<Entry Name="Broadcast.IcecastServer.Samplerate" Type="1" Value="44100"></Entry>
+<Entry Name="Browser.BPM.AutoGrid" Type="0" Value="1"></Entry>
+<Entry Name="Browser.BPMRange.Max" Type="2" Value="190"></Entry>
+<Entry Name="Browser.BPMRange.Min" Type="2" Value="80"></Entry>
+<Entry Name="Browser.Dir.ITunesMusic" Type="3" Value="Macintosh HD:Users:cantgetnosleep:Music:iTunes:iTunes Music Library.xml"></Entry>
+<Entry Name="Browser.Dir.Music" Type="7" Value=""></Entry>
+<Entry Name="Browser.Dir.Recordings" Type="3" Value="Macintosh HD:Users:cantgetnosleep:Music:Traktor:Recordings:"></Entry>
+<Entry Name="Browser.Dir.Root" Type="3" Value="Macintosh HD:Users:cantgetnosleep:Documents:Native Instruments:Traktor:"></Entry>
+<Entry Name="Browser.ID3Mode" Type="1" Value="2"></Entry>
+<Entry Name="Browser.ImportMusicFolderAtStartup" Type="0" Value="0"></Entry>
+<Entry Name="Browser.List.AllowInplaceEdit" Type="0" Value="1"></Entry>
+<Entry Name="Browser.List.Downloads" Type="3" Value="32 0 47 30 -100 24 -19 2 248 3 174 4 46 5 -118 6 -79 7 120 8 100 9 100 10 -100 11 -35 12 -100 13 -100 14 -264 15 -200 16 100 17 -100 18 100 19 100 20 100 21 80 22 -80 23 -74 25 -80 26 -80 27 -100 28 -100 29 -100 1 -100 31 100 "></Entry>
+<Entry Name="Browser.List.History" Type="3" Value="0"></Entry>
+<Entry Name="Browser.List.Normal" Type="3" Value="32 0 35 1 16 2 35 3 75 4 100 5 100 6 50 7 100 8 35 9 100 10 100 11 100 12 35 13 100 14 100 15 100 16 200 17 100 18 100 19 100 20 100 21 100 22 80 23 80 24 74 25 100 26 80 27 80 28 -100 29 -100 30 -100 31 -100 "></Entry>
+<Entry Name="Browser.List.RowHeight" Type="1" Value="16"></Entry>
+<Entry Name="Browser.PreparationList" Type="3" Value=""></Entry>
+<Entry Name="Browser.Search.Hide" Type="0" Value="0"></Entry>
+<Entry Name="Browser.Shortcuts" Type="7" Value=";;;;;;;;;;;"></Entry>
+<Entry Name="Browser.SplitterRatio" Type="2" Value="0.199191108"></Entry>
+<Entry Name="Browser.Traktor.List.AutoplayLoops" Type="0" Value="0"></Entry>
+<Entry Name="Consistency.Check.Startup" Type="0" Value="0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX1" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX10" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX11" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX12" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX13" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX14" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX15" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX16" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX17" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX18" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX19" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX2" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX24" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX25" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX26" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX27" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX28" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX29" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX3" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX31" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX32" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX33" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX4" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX5" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX6" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX7" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX8" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX9" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX1" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX10" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX11" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX12" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX13" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX14" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX15" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX16" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX17" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX18" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX19" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX2" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX24" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX25" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX26" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX27" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX28" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX29" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX3" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX31" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX32" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX33" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX4" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX5" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX6" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX7" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX8" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX9" Type="6" Value="0;0;0;0;0"></Entry>
+<Entry Name="Deck.DustDetect.Show" Type="0" Value="0"></Entry>
+<Entry Name="DeviceIO.Config.Controller" Type="3" Value="RElPTQAAABhESU9JAAAABAAAAAFERVZTAAAABAAAAAA="></Entry>
+<Entry Name="DeviceIO.Config.Keyboard" Type="3" Value="RElPTQAAABhESU9JAAAABAAAAAFERVZTAAAABAAAAAA="></Entry>
+<Entry Name="DeviceIO.KontrolX1.DefaultMapping" Type="1" Value="0"></Entry>
+<Entry Name="DeviceIO.KontrolX1.LED.Brightness" Type="1" Value="100"></Entry>
+<Entry Name="DeviceIO.KontrolX1.LED.Brightness.Off" Type="1" Value="10"></Entry>
+<Entry Name="DeviceIO.KontrolX1.Midi.Disable" Type="0" Value="0"></Entry>
+<Entry Name="DeviceIO.KontrolX1.ModMode.Hotcue" Type="1" Value="1"></Entry>
+<Entry Name="DeviceIO.KontrolX1.ModMode.Shift" Type="1" Value="0"></Entry>
+<Entry Name="FS.Calibration.DebugSlider" Type="2" Value="0"></Entry>
+<Entry Name="FS.Phase.Invert.A" Type="0" Value="0"></Entry>
+<Entry Name="FS.Phase.Invert.B" Type="0" Value="0"></Entry>
+<Entry Name="FS1.Record.LeadIn" Type="1" Value="5"></Entry>
+<Entry Name="Fileinfo.Bottom.Left" Type="1" Value="2"></Entry>
+<Entry Name="Fileinfo.Bottom.Mid" Type="1" Value="4"></Entry>
+<Entry Name="Fileinfo.Bottom.Right" Type="1" Value="9"></Entry>
+<Entry Name="Fileinfo.Mid.Left" Type="1" Value="1"></Entry>
+<Entry Name="Fileinfo.Mid.Mid" Type="1" Value="7"></Entry>
+<Entry Name="Fileinfo.Mid.Right" Type="1" Value="16"></Entry>
+<Entry Name="Fileinfo.Top.Left" Type="1" Value="0"></Entry>
+<Entry Name="Fileinfo.Top.Mid" Type="1" Value="12"></Entry>
+<Entry Name="Fileinfo.Top.Right" Type="1" Value="15"></Entry>
+<Entry Name="Flavour" Type="1" Value="1"></Entry>
+<Entry Name="Gui.Accessor.Resolution" Type="7" Value="5 2;6 2;8 2;17 2;29 2;102 2;117 2;123 2;124 0;127 2;301 2;302 2;303 2;316 2;320 2;340 2;341 2;342 2;343 2;350 2;351 2;352 2;360 2;402 2;2294 0"></Entry>
+<Entry Name="Gui.LayoutFactories" Type="3" Value=""></Entry>
+<Entry Name="Gui.LayoutFactories2" Type="7" Value="default\bwlayout -1 1 1 0 2 0 3 0 4 0 5 0 6 0 7 0 8 0 10 0 11 0 12 0 13 0 14 0 15 0 16 0 17 0 18 0 19 0 20 0 21 0 22 0 23 0 24 0 25 0 26 0 27 0 28 0 29 0 30 0 31 0 32 0 33 0 34 0 35 0 36 0 37 0 38 0 50 0 51 0 52 0 53 0 54 0 55 0"></Entry>
+<Entry Name="Gui.Layouts" Type="3" Value=""></Entry>
+<Entry Name="Gui.Layouts.Version" Type="1" Value="1"></Entry>
+<Entry Name="Gui.Layouts2" Type="7" Value="default\bwlayout 0 0 1 1 2 0 3 0 4 0 5 0 6 0 7 0 8 0 10 1 11 1 12 1 13 1 14 1 15 1 16 0 17 0 18 0 19 1 20 0 21 0 22 0 23 0 24 0 25 0 26 0 27 0 28 0 29 0 30 1 31 1 32 0 33 0 34 0 35 0 36 0 37 0 38 0 50 0 51 1 52 1 53 1 54 1 55 1"></Entry>
+<Entry Name="Imports.File.Hierarchy" Type="1" Value="3"></Entry>
+<Entry Name="Loading.Advanced.AutoLoad" Type="0" Value="0"></Entry>
+<Entry Name="Loading.Advanced.CueToMarker" Type="0" Value="0"></Entry>
+<Entry Name="Loading.Reset.Deck" Type="0" Value="0"></Entry>
+<Entry Name="Loading.Reset.Mixer" Type="0" Value="0"></Entry>
+<Entry Name="Loading.Security.DuplicateWhenLoadingSameTrack" Type="0" Value="1"></Entry>
+<Entry Name="Loading.Security.NoLoading" Type="0" Value="1"></Entry>
+<Entry Name="Loading.Security.StopDeck" Type="0" Value="1"></Entry>
+<Entry Name="Loading.Timecode.SwitchAbsolute" Type="0" Value="0"></Entry>
+<Entry Name="Misc.Fullscreen.Mode" Type="1" Value="0"></Entry>
+<Entry Name="Misc.Fullscreen.OnStartup" Type="0" Value="0"></Entry>
+<Entry Name="Mixer.CrossfadeTime" Type="2" Value="3"></Entry>
+<Entry Name="Proxy.Address" Type="3" Value=""></Entry>
+<Entry Name="Proxy.Mode" Type="1" Value="1"></Entry>
+<Entry Name="Proxy.Port" Type="1" Value="0"></Entry>
+<Entry Name="Recording.Prefix" Type="3" Value=""></Entry>
+<Entry Name="Recording.Source" Type="1" Value="-1"></Entry>
+<Entry Name="Recording.Splitsize" Type="1" Value="2048"></Entry>
+<Entry Name="Routing.FS.Input.Channel.A.Left" Type="1" Value="0"></Entry>
+<Entry Name="Routing.FS.Input.Channel.A.Right" Type="1" Value="1"></Entry>
+<Entry Name="Routing.FS.Input.Channel.B.Left" Type="1" Value="2"></Entry>
+<Entry Name="Routing.FS.Input.Channel.B.Right" Type="1" Value="3"></Entry>
+<Entry Name="Routing.FS.Input.Channel.C.Left" Type="1" Value="4"></Entry>
+<Entry Name="Routing.FS.Input.Channel.C.Right" Type="1" Value="5"></Entry>
+<Entry Name="Routing.FS.Input.Channel.D.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.FS.Input.Channel.D.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.FS.Input.Channel.Send.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.FS.Input.Channel.Send.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.FS.Out.External.A.Left" Type="1" Value="0"></Entry>
+<Entry Name="Routing.FS.Out.External.A.Right" Type="1" Value="1"></Entry>
+<Entry Name="Routing.FS.Out.External.B.Left" Type="1" Value="2"></Entry>
+<Entry Name="Routing.FS.Out.External.B.Right" Type="1" Value="3"></Entry>
+<Entry Name="Routing.FS.Out.External.C.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.FS.Out.External.C.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.FS.Out.External.D.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.FS.Out.External.D.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.FS.Out.External.Preview.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.FS.Out.External.Preview.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.FS.Out.External.Send.Left" Type="1" Value="4"></Entry>
+<Entry Name="Routing.FS.Out.External.Send.Right" Type="1" Value="5"></Entry>
+<Entry Name="Routing.FS.Out.Internal.Master.Left" Type="1" Value="0"></Entry>
+<Entry Name="Routing.FS.Out.Internal.Master.Right" Type="1" Value="1"></Entry>
+<Entry Name="Routing.FS.Out.Internal.Monitor.Left" Type="1" Value="4"></Entry>
+<Entry Name="Routing.FS.Out.Internal.Monitor.Right" Type="1" Value="5"></Entry>
+<Entry Name="Routing.FS.Out.Internal.Record.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.FS.Out.Internal.Record.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Input.Channel.A.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Input.Channel.A.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Input.Channel.B.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Input.Channel.B.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Input.Channel.C.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Input.Channel.C.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Input.Channel.D.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Input.Channel.D.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Input.Channel.Send.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Input.Channel.Send.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Mixer.External" Type="0" Value="0"></Entry>
+<Entry Name="Routing.Out.External.A.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.External.A.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.External.B.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.External.B.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.External.C.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.External.C.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.External.D.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.External.D.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.External.Preview.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.External.Preview.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.External.Send.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.External.Send.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.Internal.Master.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.Internal.Master.Mono" Type="0" Value="0"></Entry>
+<Entry Name="Routing.Out.Internal.Master.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.Internal.Monitor.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.Internal.Monitor.Mono" Type="0" Value="0"></Entry>
+<Entry Name="Routing.Out.Internal.Monitor.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.Internal.Record.Left" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.Internal.Record.Right" Type="1" Value="-1"></Entry>
+<Entry Name="Routing.Out.SendFX" Type="0" Value="0"></Entry>
+<Entry Name="Scratch.Input.Mode" Type="1" Value="0"></Entry>
+<Entry Name="Scratch.Korg.VinylMode" Type="0" Value="1"></Entry>
+<Entry Name="Scratch.Leadin.Mode" Type="1" Value="0"></Entry>
+<Entry Name="Scratch.Mode.45RpM" Type="0" Value="0"></Entry>
+<Entry Name="Status.4 FX Units" Type="5" Value="0"></Entry>
+<Entry Name="Status.Assign Deck to Scratch Control" Type="5" Value="0;1;2;3"></Entry>
+<Entry Name="Status.Audio Recorder Gain" Type="6" Value="0.5"></Entry>
+<Entry Name="Status.Auto Gain" Type="5" Value="1"></Entry>
+<Entry Name="Status.Beat Tick" Type="5" Value="0"></Entry>
+<Entry Name="Status.Cue/Loop Move Mode" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Cue/Loop Move Size" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Cup Mode" Type="5" Value="1"></Entry>
+<Entry Name="Status.Deck Balance" Type="6" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Deck Mode" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Deck Mode CD" Type="5" Value="0"></Entry>
+<Entry Name="Status.Deck Size" Type="5" Value="0;0"></Entry>
+<Entry Name="Status.Dry/Wet Chained" Type="6" Value="1;1;1;1"></Entry>
+<Entry Name="Status.EQ High" Type="6" Value="0.5;0.5;0.5;0.5"></Entry>
+<Entry Name="Status.EQ Low" Type="6" Value="0.5;0.5;0.5;0.5"></Entry>
+<Entry Name="Status.EQ Mid" Type="6" Value="0.5;0.5;0.5;0.5"></Entry>
+<Entry Name="Status.EQ Mid Low" Type="6" Value="0.5;0.5;0.5;0.5"></Entry>
+<Entry Name="Status.EQ Mode" Type="5" Value="0"></Entry>
+<Entry Name="Status.Effect 1 Select" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Effect 2 Select" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Effect 3 Select" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Effect Routing" Type="5" Value="1;1;1;1"></Entry>
+<Entry Name="Status.Effect Select" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Effect Unit 1 On" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Effect Unit 2 On" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Effect Unit 3 On" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Effect Unit 4 On" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.FX Panel Mode" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.FX Restore Preset on Switch" Type="5" Value="1"></Entry>
+<Entry Name="Status.Filter" Type="6" Value="0.5;0.5;0.5;0.5"></Entry>
+<Entry Name="Status.Filter Mode" Type="5" Value="0"></Entry>
+<Entry Name="Status.Filter On" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Gain" Type="6" Value="0.5;0.5;0.5;0.5"></Entry>
+<Entry Name="Status.Input Select" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Key" Type="6" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Key Lock" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Layout Select" Type="5" Value="0"></Entry>
+<Entry Name="Status.Limiter" Type="5" Value="1"></Entry>
+<Entry Name="Status.Loop Size" Type="5" Value="7;7;7;7"></Entry>
+<Entry Name="Status.Master Clock Mode" Type="5" Value="1"></Entry>
+<Entry Name="Status.Master Panel left" Type="5" Value="0"></Entry>
+<Entry Name="Status.Master Panel right" Type="5" Value="0"></Entry>
+<Entry Name="Status.Master Tempo" Type="6" Value="120"></Entry>
+<Entry Name="Status.Master Tempo Clock Send" Type="5" Value="0"></Entry>
+<Entry Name="Status.Master Tempo Select" Type="5" Value="-1"></Entry>
+<Entry Name="Status.Master Tempo Slave" Type="5" Value="0"></Entry>
+<Entry Name="Status.Master Tempo Tick" Type="5" Value="0"></Entry>
+<Entry Name="Status.Master Volume" Type="6" Value="0.75"></Entry>
+<Entry Name="Status.Monitor Mix" Type="6" Value="0"></Entry>
+<Entry Name="Status.Monitor Volume" Type="6" Value="0.75"></Entry>
+<Entry Name="Status.Pitch/Scratch Sound" Type="5" Value="1"></Entry>
+<Entry Name="Status.Quantize Mode" Type="5" Value="0"></Entry>
+<Entry Name="Status.Scratch Monitor Scope Mode" Type="5" Value="0"></Entry>
+<Entry Name="Status.Select Advanced Panel" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Show Advanced Panel" Type="5" Value="0;0"></Entry>
+<Entry Name="Status.Snap Mode" Type="5" Value="1"></Entry>
+<Entry Name="Status.Snap Mode Wavedisplay" Type="5" Value="0"></Entry>
+<Entry Name="Status.Tempo Range" Type="5" Value="3;3;3;3"></Entry>
+<Entry Name="Status.Tool Tips Toggle" Type="5" Value="1"></Entry>
+<Entry Name="Status.Track Info Display" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Window Deck Zoom" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.X-Fader Curve" Type="6" Value="0"></Entry>
+<Entry Name="Sync.MIDI.ClocktimeOffset" Type="1" Value="0"></Entry>
+<Entry Name="Sync.MIDI.SendClock" Type="0" Value="0"></Entry>
+<Entry Name="Sync.OSC.LocalIP.OnOff" Type="0" Value="0"></Entry>
+<Entry Name="Sync.OSC.ReceiveControls.OnOff" Type="0" Value="0"></Entry>
+<Entry Name="Sync.OSC.SendControls.OnOff" Type="0" Value="0"></Entry>
+<Entry Name="Sync.OSC.SendControlsTo" Type="3" Value=""></Entry>
+<Entry Name="TimeStretch.Enable" Type="0" Value="0"></Entry>
+<Entry Name="TimeStretch.KeyLockRange" Type="1" Value="1"></Entry>
+<Entry Name="TimeStretch.Quality" Type="1" Value="1"></Entry>
+<Entry Name="Trabsport.PitchBend.Progressive" Type="0" Value="0"></Entry>
+<Entry Name="Trabsport.PitchBend.Sens" Type="2" Value="100"></Entry>
+<Entry Name="Transport.Cache.AB" Type="1" Value="0"></Entry>
+<Entry Name="Transport.Cache.CD" Type="1" Value="0"></Entry>
+<Entry Name="Transport.FS.Continue" Type="0" Value="0"></Entry>
+<Entry Name="Transport.FS.Ignore" Type="0" Value="0"></Entry>
+<Entry Name="Transport.Loops.AutodetectSize" Type="1" Value="10"></Entry>
+<Entry Name="Transport.Pitch.Coarse" Type="1" Value="-1"></Entry>
+<Entry Name="Transport.Pitch.Fine" Type="2" Value="8"></Entry>
+<Entry Name="Transport.PlayedStateDelay" Type="2" Value="10"></Entry>
+<Entry Name="Transport.Scratch.RecordFlip" Type="0" Value="0"></Entry>
+<Entry Name="Transport.Scratch.SwitchAbsolute" Type="0" Value="0"></Entry>
+<Entry Name="Transport.Scratch.VinylLoad" Type="0" Value="1"></Entry>
+<Entry Name="Transport.Synchronize.FadeMarkers" Type="0" Value="0"></Entry>
+<Entry Name="Transport.Synchronize.Start" Type="0" Value="0"></Entry>
+<Entry Name="UltraControl.ShowValue" Type="0" Value="1"></Entry>
+<Entry Name="Version" Type="1" Value="3"></Entry>
+<Entry Name="View.ConsoleMode" Type="0" Value="0"></Entry>
+<Entry Name="View.DeckFocus" Type="0" Value="1"></Entry>
+<Entry Name="View.Font" Type="3" Value=""></Entry>
+<Entry Name="View.FontSize" Type="1" Value="11"></Entry>
+<Entry Name="View.Language" Type="1" Value="0"></Entry>
+<Entry Name="View.MiniPlayer.AlwaysOnTop" Type="0" Value="0"></Entry>
+<Entry Name="View.PhraseLength" Type="1" Value="0"></Entry>
+<Entry Name="View.Window.Position.X" Type="1" Value="4"></Entry>
+<Entry Name="View.Window.Position.Y" Type="1" Value="22"></Entry>
+<Entry Name="View.Window.Size.X" Type="1" Value="1024"></Entry>
+<Entry Name="View.Window.Size.Y" Type="1" Value="768"></Entry>
+<Entry Name="Wavedisplay.Channels" Type="1" Value="2"></Entry>
+<Entry Name="Wavedisplay.Colors" Type="1" Value="0"></Entry>
+<Entry Name="Wavedisplay.Highlight.Beatmarkers" Type="0" Value="0"></Entry>
+<Entry Name="Wavedisplay.PlayMarkerPos" Type="1" Value="50"></Entry>
+<Entry Name="Wavedisplay.ShowMinuteMarkers" Type="0" Value="1"></Entry>
+<Entry Name="Wavedisplay.Stripeview" Type="1" Value="0"></Entry>
+<Entry Name="Wavedisplay.WarningClock" Type="1" Value="30"></Entry>
+<Entry Name="Wizard.Completed" Type="0" Value="0"></Entry>
+</TraktorSettings>
+</NIXML>
